@@ -15,3 +15,5 @@ The lightcurves folder contains the files for imported light curves, the output 
 EightBitTransit can be found here: https://github.com/esandford/EightBitTransit
 
 Disclaimer: If any of the code is written in an obtuse way for python, is in a wierd order or the files are wierdly organized, it's becuase I'm a C++ programmer writing in python syntax. You'll just have to bear with me
+
+Feel free to email me with any questions about how the software works or why my code is so messy: jbromley@berkeley.edu
