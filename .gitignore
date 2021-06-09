@@ -1,0 +1,4 @@
+#Ignore TESS Ligtcurves
+Summer2021/TESSCurves/*
+#Ignore Signal Output Files
+Summer2021/Signals/*
